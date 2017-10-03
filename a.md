@@ -1,9 +1,16 @@
 # Hier ist A beschrieben
 
-Hier ist der Text
+Hier ist der Text!
 
 ```
 class A {
+    constructor() {}
+}
+```
+
+
+```
+class B {
     constructor() {}
 }
 ```
