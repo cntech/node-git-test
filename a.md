@@ -3,5 +3,7 @@
 Hier ist der Text
 
 ```
-some code
+class A {
+    constructor() {}
+}
 ```
